@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hadinur99
+- 👋 Hi, I’m Hadi Nurdin
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Data State Management
 - 💞️ I’m looking to collaborate on ...
